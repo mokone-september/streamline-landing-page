@@ -21,7 +21,7 @@ export default function Navbar() {
           </Link>
         </nav>
         <div className="flex items-center space-x-4">
-          <Link href="https://github.com/amanesoft" target="_blank" rel="noreferrer">
+          <Link href="https://github.com/mokoneseptember" target="_blank" rel="noreferrer">
             <Button variant="ghost" size="icon">
               <Github className="h-4 w-4" />
               <span className="sr-only">GitHub</span>
